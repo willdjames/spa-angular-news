@@ -1,2 +1,2 @@
 # spa-angular-news
-Consumer de newsapi.org
+Consumer de [News API](https://newsapi.org)
